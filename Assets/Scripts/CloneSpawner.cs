@@ -7,7 +7,7 @@ public class CloneSpawner : MonoBehaviour {
     public enum SpawnTarget{ Mouse, GameObject }
     public SpawnTarget spawnTarget;
 
-    Camera mainCam;
+    public Camera mainCam;
 
     private void OnEnable()
     {

@@ -335,7 +335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12107a9aa3e11bc4f9db527e8e84cd15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 60
+  rotationSpeed: 1
   pitchClampValue: 21.25
   yawClampValue: 42.5
 --- !u!20 &282840813

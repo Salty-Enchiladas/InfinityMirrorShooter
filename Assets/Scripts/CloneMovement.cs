@@ -2,6 +2,7 @@
 
 public class CloneMovement : MonoBehaviour {
 
+
     public float movementPerTick;
 
     private void OnEnable()
